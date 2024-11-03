@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TaleDef>
+    <defName>BBLK_Tale_LickWall</defName>
+    <label>licked wall</label>
+    <taleClass>Tale_SinglePawnAndDef</taleClass>
+    <type>Volatile</type>
+    <defSymbol>OBJECT</defSymbol>
+    <baseInterest>0.5</baseInterest>
+    <rulePack>
+      <rulesStrings>
+        <li>tale_noun->[PAWN_nameDef] licking a [OBJECT_label]</li>
+        <li>image->[PAWN_nameFull] licking a [OBJECT_label]</li>
+        <li>circumstance_phrase->with a gleam in [PAWN_possessive] eye</li>
+        <li>circumstance_phrase->while wiping the sweat from [PAWN_possessive] forehead</li>
+        <li>circumstance_phrase->while covered in grime</li>
+        <li>circumstance_phrase->while smiling proudly</li>
+        <li>circumstance_phrase->with a satisfied expression on [PAWN_possessive] face</li>
+        <li>circumstance_phrase->with a broad grin</li>
+        <li>circumstance_phrase->with a laugh</li>
+        <li>circumstance_phrase->with their tongue stuck out</li>
+        <li>circumstance_phrase->with a [AdjectiveFriendly] smile</li>
+        <li>circumstance_phrase->while laughing uproariously</li>
+        <li>circumstance_phrase->while [AdjectiveFriendly]</li>
+        <li>circumstance_phrase->and consumed in thought</li>
+        <li>circumstance_phrase->while consumed in thought</li>
+        <li>circumstance_phrase->while gazing at a faraway [TerrainFeature]</li>
+        <li>desc_sentence->A [Color] aurora shines illuminating the [OBJECT_label].</li>
+        <li>desc_sentence->A full moon glistens against [PAWN_nameDef]'s tongue as it licks [OBJECT_label].</li>
+        <li>desc_sentence->[PAWN_nameDef] radiates determination.</li>
+        <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the [OBJECT_label].</li>
+      </rulesStrings>
+    </rulePack>
+  </TaleDef>
+
+</Defs>

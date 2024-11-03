@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="VFEI2_InsectJellyWall" or defName="VFEI2_RoyalJellyWall" or defName="Jelly_Wall" or defName="CSGingerbreadWall"]/building</xpath>
+    <value>
+      <joyKind>Gluttonous</joyKind>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="VFEI2_InsectJellyWall" or defName="Jelly_Wall" or defName="CSGingerbreadWall"]/statBases</xpath>
+    <value>
+      <JoyGainFactor>0.5</JoyGainFactor>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Factions Expanded - Insectoids 2</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="VFEI2_RoyalJellyWall"]/statBases</xpath>
+      <value>
+        <JoyGainFactor>1</JoyGainFactor>
+      </value>
+    </match>
+  </Operation>
+
+</Patch>

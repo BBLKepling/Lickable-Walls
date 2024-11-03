@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <JobDef>
+    <defName>BBLK_Job_LickWall</defName>
+    <driverClass>Lickable_Walls.JobDriver_LickWall</driverClass>
+    <reportString>licking wall.</reportString>
+    <joyDuration>2500</joyDuration>
+    <joyKind>Gluttonous</joyKind>
+    <isCrawlingIfDowned>false</isCrawlingIfDowned>
+    <taleOnCompletion>BBLK_Tale_LickWall</taleOnCompletion>
+  </JobDef>
+
+</Defs>

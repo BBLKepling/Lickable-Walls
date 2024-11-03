@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Lickable Walls</name>
+  <author>bblkepling</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>bblkepling.lickablewalls</packageId>
+  <description>Makes tasty walls lickable for recreation, includes lickable wallpaper and support for several mods with tasty walls.</description>
+</ModMetaData>

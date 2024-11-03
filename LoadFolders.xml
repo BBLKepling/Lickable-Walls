@@ -1,0 +1,7 @@
+<loadFolders>
+  <v1.5>
+    <li>1.5</li>
+    <li>Common</li>
+    <li IfModActive="OskarPotocki.VFE.Insectoid2,Caveman.Jellywall,Mlie.ChristmasStuffAdventCalendar">Common/Mods</li>
+  </v1.5>
+</loadFolders>

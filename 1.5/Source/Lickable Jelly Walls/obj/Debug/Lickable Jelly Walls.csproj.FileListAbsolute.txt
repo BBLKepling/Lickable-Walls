@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lickable Jelly Walls\1.5\Source\Lickable Jelly Walls\obj\Debug\Lickable Jelly Walls.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lickable Jelly Walls\1.5\Source\Lickable Jelly Walls\obj\Debug\Lickable Jelly Walls.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lickable Jelly Walls\1.5\Assemblies\Lickable_Walls.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lickable Jelly Walls\1.5\Source\Lickable Jelly Walls\obj\Debug\Lickable_Walls.dll

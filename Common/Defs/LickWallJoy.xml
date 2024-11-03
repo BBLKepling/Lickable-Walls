@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <JoyGiverDef>
+    <defName>BBLK_Joy_LickWall</defName>
+    <giverClass>Lickable_Walls.JoyGiver_LickWall</giverClass>
+    <baseChance>0.5</baseChance>
+    <pctPawnsEverDo>1</pctPawnsEverDo>
+    <joyKind>Gluttonous</joyKind>
+    <canDoWhileInBed>false</canDoWhileInBed>
+    <requireChair>false</requireChair>
+    <desireSit>false</desireSit>
+    <jobDef>BBLK_Job_LickWall</jobDef>
+    <thingDefs>
+      <li>BBLK_LickableWallpaper</li>
+      <li MayRequire="OskarPotocki.VFE.Insectoid2">VFEI2_InsectJellyWall</li>
+      <li MayRequire="OskarPotocki.VFE.Insectoid2">VFEI2_RoyalJellyWall</li>
+      <li MayRequire="Caveman.Jellywall">Jelly_Wall</li>
+      <li MayRequire="Mlie.ChristmasStuffAdventCalendar">CSGingerbreadWall</li>
+    </thingDefs>
+  </JoyGiverDef>
+
+</Defs>
