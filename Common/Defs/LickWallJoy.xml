@@ -17,6 +17,8 @@
       <li MayRequire="OskarPotocki.VFE.Insectoid2">VFEI2_RoyalJellyWall</li>
       <li MayRequire="Caveman.Jellywall">Jelly_Wall</li>
       <li MayRequire="Mlie.ChristmasStuffAdventCalendar">CSGingerbreadWall</li>
+      <li MayRequire="ElTwoFour.MantodeanRace">L24_Manto_HiveWall</li>
+      <li MayRequire="sera.apinialienrace">ApiniHoneyWall</li>
     </thingDefs>
   </JoyGiverDef>
 
