@@ -13,5 +13,9 @@ namespace Lickable_Walls
 
         public static BodyPartDef Tongue;
         public static JobDef BBLK_Job_LickWall;
+        public static ThingDef BBLK_LickableWallpaper;
+
+        [MayRequire("Argon.ExpandedMaterials.Metals")]
+        public static HediffDef EM_LeadPoisoning;
     }
 }

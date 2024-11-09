@@ -35,8 +35,8 @@ namespace Lickable_Walls
         public override bool CanBeGivenTo(Pawn pawn)
         {
             if (!(pawn?.health?.hediffSet?.GetBodyPartRecord(InternalDefOf.Tongue) is BodyPartRecord tongue) || 
-                (!pawn.health.hediffSet.PartOrAnyAncestorHasDirectlyAddedParts(tongue) && 
-                pawn.health.hediffSet.PartIsMissing(tongue))) return false;
+                (!pawn.health.hediffSet.PartOrAnyAncestorHasDirectlyAddedParts(tongue) && pawn.health.hediffSet.PartIsMissing(tongue))
+                ) return false;
             return base.CanBeGivenTo(pawn);
         }
     }
