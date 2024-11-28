@@ -19,6 +19,9 @@
       <li MayRequire="Mlie.ChristmasStuffAdventCalendar">CSGingerbreadWall</li>
       <li MayRequire="ElTwoFour.MantodeanRace">L24_Manto_HiveWall</li>
       <li MayRequire="sera.apinialienrace">ApiniHoneyWall</li>
+      <li MayRequire="gguake.race.vivi">VV_ViviCreamWall</li>
+      <li MayRequire="gguake.race.vivi">VV_SmoothedViviCreamWall</li>
+      <li MayRequire="gguake.race.vivi">VV_ViviHoneycombWall</li>
     </thingDefs>
   </JoyGiverDef>
 
