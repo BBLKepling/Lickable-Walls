@@ -2,14 +2,27 @@
 <Patch>
 
   <Operation Class="PatchOperationAdd">
-    <xpath>Defs/ThingDef[defName="VFEI2_InsectJellyWall" or defName="VFEI2_RoyalJellyWall" or defName="Jelly_Wall" or defName="CSGingerbreadWall" or defName="L24_Manto_HiveWall" or defName="ApiniHoneyWall"]/building</xpath>
+    <xpath>Defs/ThingDef[defName="VFEI2_InsectJellyWall" or 
+	                     defName="VFEI2_RoyalJellyWall" or 
+	                     defName="Jelly_Wall" or 
+	                     defName="CSGingerbreadWall" or 
+	                     defName="L24_Manto_HiveWall" or 
+	                     defName="EM_GingerWall" or 
+	                     defName="EM_CandyWall" or 
+	                     defName="ApiniHoneyWall"]/building</xpath>
     <value>
       <joyKind>Gluttonous</joyKind>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationAdd">
-    <xpath>Defs/ThingDef[defName="VFEI2_InsectJellyWall" or defName="Jelly_Wall" or defName="CSGingerbreadWall" or defName="L24_Manto_HiveWall" or defName="ApiniHoneyWall"]/statBases</xpath>
+    <xpath>Defs/ThingDef[defName="VFEI2_InsectJellyWall" or 
+	                     defName="Jelly_Wall" or 
+	                     defName="CSGingerbreadWall" or 
+	                     defName="L24_Manto_HiveWall" or 
+	                     defName="EM_GingerWall" or 
+	                     defName="EM_CandyWall" or 
+	                     defName="ApiniHoneyWall"]/statBases</xpath>
     <value>
       <JoyGainFactor>0.5</JoyGainFactor>
     </value>
