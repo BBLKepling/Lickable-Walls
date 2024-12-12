@@ -17,5 +17,8 @@ namespace Lickable_Walls
 
         [MayRequire("Argon.ExpandedMaterials.Metals")]
         public static HediffDef EM_LeadPoisoning;
+
+        [MayRequire("VE.VanillaChristmasExpanded")]
+        public static ThingDef VCE_Gingerbread;
     }
 }

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Lickable-Walls\\1.5\\Source\\Lickable Jelly Walls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747259D5-ACC9-4710-8FF6-FA2D9A6B7961}|Lickable Jelly Walls.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Lickable-Walls\\1.5\\Source\\Lickable Jelly Walls\\joygiver_lickwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747259D5-ACC9-4710-8FF6-FA2D9A6B7961}|Lickable Jelly Walls.csproj|solutionrelative:joygiver_lickwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747259D5-ACC9-4710-8FF6-FA2D9A6B7961}|Lickable Jelly Walls.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\lickable-walls\\1.5\\source\\lickable jelly walls\\jobdriver_lickwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747259D5-ACC9-4710-8FF6-FA2D9A6B7961}|Lickable Jelly Walls.csproj|solutionrelative:jobdriver_lickwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747259D5-ACC9-4710-8FF6-FA2D9A6B7961}|Lickable Jelly Walls.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Lickable-Walls\\1.5\\Source\\Lickable Jelly Walls\\internaldefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747259D5-ACC9-4710-8FF6-FA2D9A6B7961}|Lickable Jelly Walls.csproj|solutionrelative:internaldefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobDriver_LickWall.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Lickable-Walls\\1.5\\Source\\Lickable Jelly Walls\\JobDriver_LickWall.cs",
+              "RelativeDocumentMoniker": "JobDriver_LickWall.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Lickable-Walls\\1.5\\Source\\Lickable Jelly Walls\\JobDriver_LickWall.cs",
+              "RelativeToolTip": "JobDriver_LickWall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:40:34.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InternalDefOf.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Lickable-Walls\\1.5\\Source\\Lickable Jelly Walls\\InternalDefOf.cs",
+              "RelativeDocumentMoniker": "InternalDefOf.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Lickable-Walls\\1.5\\Source\\Lickable Jelly Walls\\InternalDefOf.cs",
+              "RelativeToolTip": "InternalDefOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:40:33.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JoyGiver_LickWall.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Lickable-Walls\\1.5\\Source\\Lickable Jelly Walls\\JoyGiver_LickWall.cs",
+              "RelativeDocumentMoniker": "JoyGiver_LickWall.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Lickable-Walls\\1.5\\Source\\Lickable Jelly Walls\\JoyGiver_LickWall.cs",
+              "RelativeToolTip": "JoyGiver_LickWall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:40:34.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

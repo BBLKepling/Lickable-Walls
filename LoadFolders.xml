@@ -3,5 +3,6 @@
     <li>1.5</li>
     <li>Common</li>
     <li IfModActive="OskarPotocki.VFE.Insectoid2,Caveman.Jellywall,Mlie.ChristmasStuffAdventCalendar,ElTwoFour.MantodeanRace,sera.apinialienrace,Argon.ExpandedMaterials.Xmas">Common/Mods</li>
+    <li IfModActive="VE.VanillaChristmasExpanded">Common/VEXmas</li>
   </v1.5>
 </loadFolders>

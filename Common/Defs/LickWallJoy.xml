@@ -13,6 +13,7 @@
     <jobDef>BBLK_Job_LickWall</jobDef>
     <thingDefs>
       <li>BBLK_LickableWallpaper</li>
+      <li MayRequire="VE.VanillaChristmasExpanded">Wall</li>
       <li MayRequire="OskarPotocki.VFE.Insectoid2">VFEI2_InsectJellyWall</li>
       <li MayRequire="OskarPotocki.VFE.Insectoid2">VFEI2_RoyalJellyWall</li>
       <li MayRequire="Caveman.Jellywall">Jelly_Wall</li>
