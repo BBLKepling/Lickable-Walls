@@ -9,7 +9,8 @@
 	                     defName="L24_Manto_HiveWall" or 
 	                     defName="EM_GingerWall" or 
 	                     defName="EM_CandyWall" or 
-	                     defName="ApiniHoneyWall"]/building</xpath>
+	                     defName="ApiniHoneyWall" or 
+	                     defName="MeatWall"]/building</xpath>
     <value>
       <joyKind>Gluttonous</joyKind>
     </value>
@@ -22,7 +23,8 @@
 	                     defName="L24_Manto_HiveWall" or 
 	                     defName="EM_GingerWall" or 
 	                     defName="EM_CandyWall" or 
-	                     defName="ApiniHoneyWall"]/statBases</xpath>
+	                     defName="ApiniHoneyWall" or 
+	                     defName="MeatWall"]/statBases</xpath>
     <value>
       <JoyGainFactor>0.5</JoyGainFactor>
     </value>
