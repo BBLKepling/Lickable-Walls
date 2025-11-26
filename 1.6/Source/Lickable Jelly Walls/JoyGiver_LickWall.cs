@@ -23,7 +23,6 @@ namespace Lickable_Walls
             {
                 if (!base.def.thingDefs.Contains(t.def) || 
                     t.def.building == null || 
-                    (t.def == ThingDefOf.Wall && t.Stuff != InternalDefOf.VCE_Gingerbread) || 
                     t.Position.Fogged(t.Map) || 
                     !pawn.CanReserve(t) || 
                     t.IsBurning() || 
