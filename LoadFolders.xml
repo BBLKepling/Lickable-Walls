@@ -7,6 +7,6 @@
   <v1.6>
     <li>1.6</li>
     <li>Common</li>
-    <li IfModActive="OskarPotocki.VFE.Insectoid2,Caveman.Jellywall,Mlie.ChristmasStuffAdventCalendar,ElTwoFour.MantodeanRace,sera.apinialienrace,Argon.ExpandedMaterials.Xmas">Common/Mods</li>
+    <li IfModActive="OskarPotocki.VFE.Insectoid2,Caveman.Jellywall,Mlie.ChristmasStuffAdventCalendar,ElTwoFour.MantodeanRace,sera.apinialienrace,Argon.ExpandedMaterials.Xmas,elsa.CakeFurniture.FDF">Common/Mods</li>
   </v1.6>
 </loadFolders>

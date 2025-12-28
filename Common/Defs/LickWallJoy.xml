@@ -25,6 +25,7 @@
       <li MayRequire="gguake.race.vivi">VV_SmoothedViviCreamWall</li>
       <li MayRequire="gguake.race.vivi">VV_ViviHoneycombWall</li>
       <li MayRequire="sangel.meatwalls">MeatWall</li>
+      <li MayRequire="elsa.CakeFurniture.FDF">FDF_CakeFurniture_Wall</li>
     </thingDefs>
   </JoyGiverDef>
 

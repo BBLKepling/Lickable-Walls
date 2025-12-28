@@ -10,7 +10,8 @@
 	                     defName="EM_GingerWall" or 
 	                     defName="EM_CandyWall" or 
 	                     defName="ApiniHoneyWall" or 
-	                     defName="MeatWall"]/building</xpath>
+	                     defName="MeatWall" or 
+	                     @Name="FDF_CakeFurniture_WallBase"]/building</xpath>
     <value>
       <joyKind>Gluttonous</joyKind>
     </value>
@@ -24,7 +25,8 @@
 	                     defName="EM_GingerWall" or 
 	                     defName="EM_CandyWall" or 
 	                     defName="ApiniHoneyWall" or 
-	                     defName="MeatWall"]/statBases</xpath>
+	                     defName="MeatWall" or 
+	                     @Name="FDF_CakeFurniture_WallBase"]/statBases</xpath>
     <value>
       <JoyGainFactor>0.5</JoyGainFactor>
     </value>
